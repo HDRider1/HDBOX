@@ -97,4 +97,5 @@ SSH into the control node and follow the steps below:
 - new-playbook.yml is the playbook file and it is copied to Web1 and Web2 .
 - You will need to update the hosts file to make Ansible run the playbook on a specific machine. You will need to list 10.1.0.4 ansible_python_interpreter=/usr/bin/python3 to     install the ELK server on and specify the IP addresses of Web1 and Web2 VMs to install FileBeat on.
 -	I navigated to http://168.61.190.18:5601/app/kibana#/home in order to check that the ELK server is running.
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
+ **Bonus**
+ - ansible-playbook

@@ -1,4 +1,4 @@
- ### Automated ELK Stack Deployment
+ ### Project 1  ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
 https://github.com/HDRider1/HDBOX/blob/main/Diagrams/diagram2%20.png

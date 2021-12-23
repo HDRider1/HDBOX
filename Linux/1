@@ -1,1 +1,10 @@
 
+#!/bin/bash
+echo "2050 pls get your Booster vax  number 54!"
+
+
+
+
+sysadmin@UbuntuDesktop:~/Documents$ ./bash_script.sh 
+2050 pls get your Booster vax  number 54!
+
